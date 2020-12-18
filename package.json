@@ -1,6 +1,6 @@
 {
-  "name": "Webserver",
-  "version": "1.0.0",
+  "name": "nodebird",
+  "version": "0.0.1",
   "description": "",
   "main": "app.js",
   "dependencies": {
